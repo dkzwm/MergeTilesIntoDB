@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MergeTilesIntoDB", "MergeTilesIntoDB.vcxproj", "{691F6551-5B31-47C8-99CE-5F4853D2C2C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691F6551-5B31-47C8-99CE-5F4853D2C2C8}.Debug|x64.ActiveCfg = Debug|x64
+		{691F6551-5B31-47C8-99CE-5F4853D2C2C8}.Debug|x64.Build.0 = Debug|x64
+		{691F6551-5B31-47C8-99CE-5F4853D2C2C8}.Debug|x86.ActiveCfg = Debug|Win32
+		{691F6551-5B31-47C8-99CE-5F4853D2C2C8}.Debug|x86.Build.0 = Debug|Win32
+		{691F6551-5B31-47C8-99CE-5F4853D2C2C8}.Release|x64.ActiveCfg = Release|x64
+		{691F6551-5B31-47C8-99CE-5F4853D2C2C8}.Release|x64.Build.0 = Release|x64
+		{691F6551-5B31-47C8-99CE-5F4853D2C2C8}.Release|x86.ActiveCfg = Release|Win32
+		{691F6551-5B31-47C8-99CE-5F4853D2C2C8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78327BAF-1937-4A28-94A0-3B3FE2546010}
+	EndGlobalSection
+EndGlobal
